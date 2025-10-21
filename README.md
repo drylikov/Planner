@@ -21,6 +21,8 @@ A Model Context Protocol server for creating and managing plans with steps. This
 - Paginated listing of plans (10 per page), ordered by creation date (newest first)
 - Automatic tracking of creation dates with user-friendly formatting (e.g., "just now", "2 hours ago", "yesterday")
 
+
+
 ### Steps
 - Create specific, measurable steps with clear completion conditions
 - Track step status (in_progress, completed, failed)
