@@ -115,6 +115,8 @@ Exports a plan to markdown format including all steps and their status. The outp
 
 ## Database Schema
 
+
+
 ### Plans Table
 - `id`: TEXT PRIMARY KEY
 - `name`: TEXT NOT NULL
