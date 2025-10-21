@@ -14,6 +14,9 @@ A Model Context Protocol server for creating and managing plans with steps. This
 
 
 ### Plans
+
+
+
 - Create and manage plans with descriptive names and detailed descriptions
 - Each plan contains ordered steps with clear completion conditions
 - Track plan progress through active steps
