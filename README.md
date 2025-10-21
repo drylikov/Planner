@@ -178,6 +178,8 @@ npm run inspector
 - Break down into multiple specific steps
 - Avoid creating plans with single steps
 
+
+
 ### Creating Steps
 - Make steps specific and measurable
 - Define clear completion conditions
