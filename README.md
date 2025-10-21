@@ -82,6 +82,9 @@ Adds a new step to a plan. Steps should be specific, measurable actions that con
 
 
 ### `get_active_step`
+
+
+
 Gets the current active step of a plan.
 - **Parameters:**
   - `plan_id`: string - ID of the plan
