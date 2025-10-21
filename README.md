@@ -173,6 +173,9 @@ npm run inspector
 
 
 ### Creating Plans
+
+
+
 - Provide clear, descriptive names
 - Include detailed descriptions of objectives
 - Break down into multiple specific steps
@@ -181,6 +184,7 @@ npm run inspector
 
 
 ### Creating Steps
+
 - Make steps specific and measurable
 - Define clear completion conditions
 - Keep steps focused on single objectives
