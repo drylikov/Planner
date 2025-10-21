@@ -54,6 +54,9 @@ Creates a new plan with a descriptive name and description.
 
 
 ### `list_plans`
+
+
+
 Lists all available plans with their current status and active steps, ordered by creation date (newest first). Results are paginated with 10 plans per page. Returns a helpful message if no plans exist.
 - **Parameters:**
   - `page`: number (optional) - Page number to retrieve (1-based, defaults to 1)
