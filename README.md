@@ -159,6 +159,8 @@ npm run build
 npm run watch
 ```
 
+
+
 ### Debugging
 Use the MCP Inspector:
 ```bash
