@@ -124,6 +124,8 @@ Exports a plan to markdown format including all steps and their status. The outp
 - `created_at`: DATETIME
 - `active_step_id`: TEXT
 
+
+
 ### Steps Table
 - `id`: TEXT PRIMARY KEY
 - `plan_id`: TEXT NOT NULL
