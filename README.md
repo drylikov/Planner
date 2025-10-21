@@ -64,6 +64,8 @@ Adds a new step to a plan. Steps should be specific, measurable actions that con
   - `completion_condition`: string - Clear condition that must be met to consider this step complete
 - **Returns:** Created step details
 
+
+
 ### `get_active_step`
 Gets the current active step of a plan.
 - **Parameters:**
