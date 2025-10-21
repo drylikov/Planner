@@ -54,6 +54,8 @@ Lists all available plans with their current status and active steps, ordered by
   - Total number of pages
   - Whether there is a next page available
 
+
+
 ### `create_step`
 Adds a new step to a plan. Steps should be specific, measurable actions that contribute to the plan's completion.
 - **Parameters:**
