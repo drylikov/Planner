@@ -93,6 +93,9 @@ Gets the current active step of a plan.
 
 
 ### `complete_step`
+
+
+
 Marks a step as completed and automatically advances to the next step.
 - **Parameters:**
   - `step_id`: string - ID of the step to complete
