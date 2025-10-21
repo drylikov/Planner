@@ -80,6 +80,8 @@ Marks a step as completed and automatically advances to the next step.
   - `step_id`: string - ID of the step to complete
 - **Returns:** Next step details if available
 
+
+
 ### `fail_step`
 Marks the current active step as failed and creates a new alternative step.
 - **Parameters:**
