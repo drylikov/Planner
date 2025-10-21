@@ -27,6 +27,9 @@ A Model Context Protocol server for creating and managing plans with steps. This
 
 
 ### Steps
+
+
+
 - Create specific, measurable steps with clear completion conditions
 - Track step status (in_progress, completed, failed)
 - Automatic step progression on completion
