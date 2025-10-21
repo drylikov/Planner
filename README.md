@@ -185,6 +185,8 @@ npm run inspector
 
 ### Creating Steps
 
+
+
 - Make steps specific and measurable
 - Define clear completion conditions
 - Keep steps focused on single objectives
