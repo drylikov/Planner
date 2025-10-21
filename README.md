@@ -69,6 +69,9 @@ Lists all available plans with their current status and active steps, ordered by
 
 
 ### `create_step`
+
+
+
 Adds a new step to a plan. Steps should be specific, measurable actions that contribute to the plan's completion.
 - **Parameters:**
   - `plan_id`: string - ID of the plan
