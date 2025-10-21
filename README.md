@@ -186,6 +186,8 @@ npm run inspector
 - Keep steps focused on single objectives
 - Use testable completion conditions (e.g., "API endpoint returns 200 status code")
 
+
+
 ### Managing Progress
 - Complete steps only when completion conditions are met
 - When a step fails, provide a clear alternative approach
