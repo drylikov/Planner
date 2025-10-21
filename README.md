@@ -168,8 +168,9 @@ npm run inspector
 ```
 
 
-
 ## Best Practices
+
+
 
 ### Creating Plans
 - Provide clear, descriptive names
