@@ -91,6 +91,8 @@ Marks the current active step as failed and creates a new alternative step.
 - **Returns:** Failed step ID and new step details
 - **Note:** Can only fail the current active step
 
+
+
 ### `list_steps`
 Lists all steps in a plan in their execution order.
 - **Parameters:**
