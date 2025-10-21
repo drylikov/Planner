@@ -167,6 +167,8 @@ Use the MCP Inspector:
 npm run inspector
 ```
 
+
+
 ## Best Practices
 
 ### Creating Plans
