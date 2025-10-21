@@ -29,6 +29,8 @@ A Model Context Protocol server for creating and managing plans with steps. This
 - Automatic step progression on completion
 - Ability to handle step failures with alternative approaches
 
+
+
 ## Tools
 
 ### `create_plan`
