@@ -118,6 +118,9 @@ Marks the current active step as failed and creates a new alternative step.
 
 
 ### `list_steps`
+
+
+
 Lists all steps in a plan in their execution order.
 - **Parameters:**
   - `plan_id`: string - ID of the plan
