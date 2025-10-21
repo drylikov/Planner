@@ -33,6 +33,8 @@ A Model Context Protocol server for creating and managing plans with steps. This
 
 ## Tools
 
+
+
 ### `create_plan`
 Creates a new plan with a descriptive name and description.
 - **Parameters:**
