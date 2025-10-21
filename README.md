@@ -129,6 +129,9 @@ Lists all steps in a plan in their execution order.
 
 
 ### `export_plan`
+
+
+
 Exports a plan to markdown format including all steps and their status. The output will be formatted as a markdown document suitable for sharing or documentation purposes.
 - **Parameters:**
   - `plan_id`: string - ID of the plan to export
