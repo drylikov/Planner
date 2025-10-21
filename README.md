@@ -42,6 +42,9 @@ A Model Context Protocol server for creating and managing plans with steps. This
 
 
 ### `create_plan`
+
+
+
 Creates a new plan with a descriptive name and description.
 - **Parameters:**
   - `name`: string - Name of the plan
