@@ -42,6 +42,8 @@ Creates a new plan with a descriptive name and description.
   - `description`: string - Detailed description of the plan and its objectives
 - **Returns:** Plan details including ID, name, description, and status
 
+
+
 ### `list_plans`
 Lists all available plans with their current status and active steps, ordered by creation date (newest first). Results are paginated with 10 plans per page. Returns a helpful message if no plans exist.
 - **Parameters:**
